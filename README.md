@@ -1,16 +1,15 @@
-# langaw
+# langaw-game
 
-A new Flutter project.
+Create a Mobile Game with Flutter and Flame – Beginner Tutorial
 
-## Getting Started
+1. Introduction to game development. [beginner-tutorial >>](https://jap.alekhin.io/create-mobile-game-flutter-flame-beginner-tutorial)
 
-This project is a starting point for a Flutter application.
+2. Set up a playable game. [part-1 >>](https://jap.alekhin.io/2d-casual-mobile-game-tutorial-flame-flutter-part-1)
 
-A few resources to get you started if this is your first Flutter project:
+3. Graphics and animation. [part-2 >>](https://jap.alekhin.io/game-graphics-and-animation-tutorial-flame-flutter-part-2)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+4. Views and dialog boxes. [part-3 >>](https://jap.alekhin.io/views-dialog-boxes-tutorial-flame-flutter-part-3)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+5. Scoring, storage, and sound. [part-4 >>](https://jap.alekhin.io/scoring-storage-sound-tutorial-flame-flutter-part-4)
+
+6. Finishing up and packaging. [part-5 >>](https://jap.alekhin.io/game-finishing-packaging-tutorial-flame-flutter-part-5)
